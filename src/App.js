@@ -22,7 +22,7 @@ const App = () => {
         </Router>
       </Container> 
     </Provider>
-  )
+  )   
 }
 
 export default App;
