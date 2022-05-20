@@ -1,2 +1,2 @@
-# Dio Shooping
+# Dio Shopping
 Criando o front-end com ReactJS.
